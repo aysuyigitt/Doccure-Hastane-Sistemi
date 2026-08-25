@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Doccure.PatientService.props" />
+</Project>

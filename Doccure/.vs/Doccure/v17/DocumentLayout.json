@@ -1,0 +1,1370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\redisservices\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\redisservices\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\cartservices\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\redisservices\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\redisservices\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\cartservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\cartservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\dtos\\cartdtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\dtos\\cartdtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.identityservice\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|solutionrelative:microservices\\doccure.identityservice\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.identityservice\\context\\doccurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|solutionrelative:microservices\\doccure.identityservice\\context\\doccurecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.identityservice\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|solutionrelative:microservices\\doccure.identityservice\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.identityservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|solutionrelative:microservices\\doccure.identityservice\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.identityservice\\doccure.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{29044A5B-E09B-448F-8F6B-A79AFC34F249}|MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj|solutionrelative:microservices\\doccure.identityservice\\doccure.identityservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\views\\patient\\patientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\views\\patient\\patientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\controllers\\medicinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\context\\marketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\context\\marketcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\services\\orderservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\services\\orderservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\services\\orderservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\services\\orderservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\services\\productservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\dtos\\orderdtos\\getbyidorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\dtos\\orderdtos\\getbyidorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\dtos\\orderdetaildtos\\resultorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\dtos\\orderdetaildtos\\resultorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\dtos\\orderdetaildtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\dtos\\orderdetaildtos\\createorderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\dtos\\orderdtos\\resultorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\dtos\\orderdtos\\resultorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\migrations\\20260820114233_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\migrations\\20260820114233_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.order\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA94607-9EDA-441B-BCDA-6BD697EB1E6F}|MicroServices\\Doccure.Order\\Doccure.Order.csproj|solutionrelative:microservices\\doccure.order\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52EADD28-9B3C-4262-83B9-7E81BF915F0F}|MicroServices\\Doccure.DoctorService\\Doccure.DoctorService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.doctorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52EADD28-9B3C-4262-83B9-7E81BF915F0F}|MicroServices\\Doccure.DoctorService\\Doccure.DoctorService.csproj|solutionrelative:microservices\\doccure.doctorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\controllers\\areatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\controllers\\areatestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\dtos\\productdtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\dtos\\productdtos\\getbyidproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\dtos\\productdtos\\resultproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ADF9D5-B6FD-4D94-A2BC-012149B46AEF}|MicroServices\\Doccure.AppoinmentService\\Doccure.AppoinmentService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.appoinmentservice\\context\\appoinmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7ADF9D5-B6FD-4D94-A2BC-012149B46AEF}|MicroServices\\Doccure.AppoinmentService\\Doccure.AppoinmentService.csproj|solutionrelative:microservices\\doccure.appoinmentservice\\context\\appoinmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\areas\\admin\\views\\medicine\\medicinelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\areas\\admin\\views\\medicine\\medicinelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\services\\medicineservices\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\services\\medicineservices\\imedicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\services\\medicineservices\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\services\\medicineservices\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\migrations\\20260818185718_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\migrations\\20260818185718_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\context\\pharmcycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\context\\pharmcycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31D6EAF-7ECF-491E-A0BB-93AB108DA845}|MicroServices\\Doccure.PatientService\\Doccure.PatientService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31D6EAF-7ECF-491E-A0BB-93AB108DA845}|MicroServices\\Doccure.PatientService\\Doccure.PatientService.csproj|solutionrelative:microservices\\doccure.patientservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\services\\medicineservices\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\services\\medicineservices\\medicineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\medicinedtos\\createmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\medicinedtos\\createmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\medicinedtos\\getbyidmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\medicinedtos\\getbyidmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\medicinedtos\\updatemedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\medicinedtos\\updatemedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\dtos\\medicinedtos\\resultmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\dtos\\medicinedtos\\resultmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\frontends\\doccure.webui\\doccure.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{319CF59A-66F5-41FA-9E79-0DF8D1A5FF9A}|Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj|solutionrelative:frontends\\doccure.webui\\doccure.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\createmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\createmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\getbyidmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\getbyidmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\updatemedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\updatemedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\resultmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\dtos\\medicinedtos\\resultmedicinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.pharmcyservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51550E3A-4F5E-473D-906E-D71A7A812A34}|MicroServices\\Doccure.PharmcyService\\Doccure.PharmcyService.csproj|solutionrelative:microservices\\doccure.pharmcyservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|c:\\users\\aysu y\u0130\u011F\u0130t\\source\\repos\\doccure\\microservices\\doccure.marketservice\\migrations\\20260819114408_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5284FCA-D8F4-4584-94E5-DE59D185E9B7}|MicroServices\\Doccure.MarketService\\Doccure.MarketService.csproj|solutionrelative:microservices\\doccure.marketservice\\migrations\\20260819114408_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:11:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\CartServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\CartServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\CartServices\\ICartService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\CartServices\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:04:27.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\CartDtos\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Dtos\\CartDtos\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\CartDtos\\CartItemDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Dtos\\CartDtos\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:01:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T08:23:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:36:21.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\RedisServices\\IRedisService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\RedisServices\\IRedisService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\RedisServices\\IRedisService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\RedisServices\\IRedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:29:43.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\appsettings.json",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\appsettings.json",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T11:28:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\RedisServices\\RedisService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\RedisServices\\RedisService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\RedisServices\\RedisService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\RedisServices\\RedisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:29:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\CartServices\\CartService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\CartServices\\CartService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\CartServices\\CartService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\CartServices\\CartService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:04:34.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Program.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:36:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatientList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Patient\\PatientList.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Patient\\PatientList.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Patient\\PatientList.cshtml",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Patient\\PatientList.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T17:36:24.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.IdentityService\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Entities\\AppUser.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.IdentityService\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T07:47:59.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.IdentityService\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.IdentityService\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T07:48:06.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoccureContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Context\\DoccureContext.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.IdentityService\\Context\\DoccureContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Context\\DoccureContext.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.IdentityService\\Context\\DoccureContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T07:48:36.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.IdentityService\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.IdentityService\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T08:14:49.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NurseController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\NurseController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\NurseController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\NurseController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\NurseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:36:13.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:34:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T17:29:36.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:05:21.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Doccure.IdentityService",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj",
+              "RelativeToolTip": "MicroServices\\Doccure.IdentityService\\Doccure.IdentityService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T07:48:33.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Services\\OrderServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Services\\OrderServices\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Services\\OrderServices\\IOrderService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Services\\OrderServices\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:33:09.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Services\\OrderServices\\OrderService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Services\\OrderServices\\OrderService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Services\\OrderServices\\OrderService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Services\\OrderServices\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:32:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\appsettings.json",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T13:34:13.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MarketContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Context\\MarketContext.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Context\\MarketContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Context\\MarketContext.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Context\\MarketContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:42:18.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\ProductServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\ProductServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\ProductServices\\IProductService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\ProductServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:59:26.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Services\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Services\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Services\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:59:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:31:41.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MedicineController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Controllers\\MedicineController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T19:07:45.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:47:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:58:32.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T13:04:38.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\appsettings.json",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\appsettings.json",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-20T11:39:11.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Services\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Services\\ProductServices\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:31:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetByIdProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:01:07.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:01:34.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T13:02:16.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\ProductServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Services\\ProductServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\ProductServices\\IProductService.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Services\\ProductServices\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:05:56.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Program.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T19:03:24.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:00:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T13:00:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:42:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResultOrderDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\ResultOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\ResultOrderDetailDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\ResultOrderDetailDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\ResultOrderDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:26:59.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GetByIdOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\GetByIdOrderDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\GetByIdOrderDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\GetByIdOrderDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\GetByIdOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:26:06.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Entities\\Patient.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:40:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Entities\\Product.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:39:10.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Context\\OrderContext.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Context\\OrderContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:28:37.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateOrderDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\CreateOrderDetailDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\CreateOrderDetailDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\CreateOrderDetailDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Dtos\\OrderDetailDtos\\CreateOrderDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:25:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Program.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:46:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:26:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:24:29.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResultOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\ResultOrderDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\ResultOrderDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\ResultOrderDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Dtos\\OrderDtos\\ResultOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T12:26:25.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20260820114233_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Migrations\\20260820114233_mig1.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Migrations\\20260820114233_mig1.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Migrations\\20260820114233_mig1.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Migrations\\20260820114233_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:42:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.Order\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.Order\\Entities\\Order.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.Order\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:25:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\UpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:50:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.DoctorService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.DoctorService\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.DoctorService\\Program.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.DoctorService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:35:11.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AreaTestController.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\AreaTestController.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Controllers\\AreaTestController.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Controllers\\AreaTestController.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Controllers\\AreaTestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:37:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:50:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetByIdProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\GetByIdProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:49:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ResultProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Dtos\\ProductDtos\\ResultProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:48:57.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:57:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20260819114408_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Migrations\\20260819114408_mig1.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.MarketService\\Migrations\\20260819114408_mig1.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.MarketService\\Migrations\\20260819114408_mig1.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.MarketService\\Migrations\\20260819114408_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:44:08.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AppoinmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.AppoinmentService\\Context\\AppoinmentContext.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.AppoinmentService\\Context\\AppoinmentContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.AppoinmentService\\Context\\AppoinmentContext.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.AppoinmentService\\Context\\AppoinmentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T11:42:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Program.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T19:01:21.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PatientService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PatientService\\Program.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PatientService\\Program.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PatientService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:55:38.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20260818184118_mig3.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818184118_mig3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:41:18.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PharmcyContext.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Context\\PharmcyContext.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Context\\PharmcyContext.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Context\\PharmcyContext.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Context\\PharmcyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:00:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Services\\MedicineServices\\MedicineService.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Services\\MedicineServices\\MedicineService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Services\\MedicineServices\\MedicineService.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Services\\MedicineServices\\MedicineService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAABRwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:15:26.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MedicineList.cshtml",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Medicine\\MedicineList.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Medicine\\MedicineList.cshtml",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Medicine\\MedicineList.cshtml",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Areas\\Admin\\Views\\Medicine\\MedicineList.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T18:36:16.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IMedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\MedicineServices\\IMedicineService.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Services\\MedicineServices\\IMedicineService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\MedicineServices\\IMedicineService.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Services\\MedicineServices\\IMedicineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T19:07:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MedicineService.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\MedicineServices\\MedicineService.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Services\\MedicineServices\\MedicineService.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Services\\MedicineServices\\MedicineService.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Services\\MedicineServices\\MedicineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:28:46.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20260818185718_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818185718_mig2.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818185718_mig2.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818185718_mig2.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818185718_mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:57:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ResultMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:27:50.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "GetByIdMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:29:29.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CreateMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:29:42.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UpdateMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:29:56.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Doccure.WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj",
+              "RelativeDocumentMoniker": "Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj",
+              "RelativeToolTip": "Frontends\\Doccure.WebUI\\Doccure.WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T18:26:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:17:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GetByIdMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\GetByIdMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:12:52.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "UpdateMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\UpdateMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:12:08.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CreateMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\CreateMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:11:58.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ResultMedicineDto.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Dtos\\MedicineDtos\\ResultMedicineDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:11:46.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-18T18:06:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20260818180659_mig2.cs",
+              "DocumentMoniker": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs",
+              "RelativeDocumentMoniker": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs",
+              "ToolTip": "C:\\Users\\AYSU Y\u0130\u011E\u0130T\\Source\\Repos\\Doccure\\MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs",
+              "RelativeToolTip": "MicroServices\\Doccure.PharmcyService\\Migrations\\20260818180659_mig2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T18:07:00.195Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

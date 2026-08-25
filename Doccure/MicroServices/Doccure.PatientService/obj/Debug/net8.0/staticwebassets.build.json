@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1KyZuiZRzfKftDniuocOg0r/vh2Xayd1ZGCGTDj6wCc=",
+  "Source": "Doccure.PatientService",
+  "BasePath": "_content/Doccure.PatientService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

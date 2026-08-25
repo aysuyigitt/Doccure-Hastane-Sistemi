@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QYfVaB82vGPuDZ+jm0vCP4PTbsgKwwcCha/Ne55yWZs=",
+  "Source": "Doccure.Gateway",
+  "BasePath": "_content/Doccure.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
